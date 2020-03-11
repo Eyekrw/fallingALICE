@@ -53,9 +53,13 @@
         "temp/":true,
         "Temp/":true
 <<<<<<< HEAD
+<<<<<<< HEAD
     }
 =======
     },
     "git.ignoreLimitWarning": true
 >>>>>>> 1-2
+=======
+    }
+>>>>>>> 5
 }

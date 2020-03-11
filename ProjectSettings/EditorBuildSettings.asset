@@ -7,6 +7,9 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5
     path: Assets/1~4/Scenes/OpeningScene.unity
     guid: ed1c97504c55d994792eb1d7e18c7dae
   - enabled: 1
@@ -32,6 +35,7 @@ EditorBuildSettings:
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/1~4/Scenes/Stage2Scene.unity
+<<<<<<< HEAD
 =======
     path: Assets/1-2/Scenes/OpeningScene.unity
     guid: ed1c97504c55d994792eb1d7e18c7dae
@@ -75,5 +79,16 @@ EditorBuildSettings:
 =======
     path: Assets/5/Scenes/SampleScene.unity
 >>>>>>> 1-2
+=======
+    guid: ae9d2e3c600968045b6ee55fa8118f11
+  - enabled: 1
+    path: Assets/1~4/Scenes/Stage3Scene.unity
+    guid: 5c171579b0d3b194992f623e2fcd4523
+  - enabled: 1
+    path: Assets/1~4/Scenes/Stage4Scene.unity
+    guid: 69e9927bbba801e4ab062a2bd568fbb9
+  - enabled: 1
+    path: Assets/5/Scenes/SampleScene.unity
+>>>>>>> 5
     guid: 2e0b9c8f60751c642861c5630a3997be
   m_configObjects: {}
