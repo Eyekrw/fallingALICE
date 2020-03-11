@@ -19,6 +19,10 @@ TagManager:
   - Heartline
   - Deadline
   - Heartline2
+<<<<<<< HEAD
+=======
+  - Chat
+>>>>>>> 1-2
   layers:
   - Default
   - TransparentFX
@@ -29,7 +33,11 @@ TagManager:
   - 
   - 
   - Bg
+<<<<<<< HEAD
   - 
+=======
+  - UI2
+>>>>>>> 1-2
   - 
   - 
   - 
